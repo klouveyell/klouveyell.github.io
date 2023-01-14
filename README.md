@@ -38,5 +38,5 @@ Dòng zuò fēi cháng hǎo
 Chà bù duō yī yàng BING CHILLING
 Zài jiàn
 
-(https://www.youtube.com/embed/AWOyEIuVzzQ)
+
 
