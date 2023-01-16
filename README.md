@@ -49,8 +49,6 @@ Zài jiàn
 
 ![image](https://user-images.githubusercontent.com/122424022/212575075-163476ad-0b40-45b4-8694-44d1729150c7.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qxlbC9wH2II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 
 
